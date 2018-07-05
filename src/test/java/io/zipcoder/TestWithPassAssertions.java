@@ -22,16 +22,16 @@ public class TestWithPassAssertions {
 
     @Test
     public void test4(){
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
     @Test
     public void test5(){
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
     @Test
     public void test6(){
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 }
