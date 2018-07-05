@@ -28,4 +28,9 @@ public class TestWithPassAssertions {
     public void test5(){
 
     }
+
+    @Test
+    public void test6(){
+        
+    }
 }
